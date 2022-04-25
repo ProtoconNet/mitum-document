@@ -3,7 +3,7 @@
 *mitum-document* is the data management case of mitum model, based on
 [*mitum*](https://github.com/spikeekips/mitum) and [*mitum-currency*](https://github.com/spikeekips/mitum-currency).
 
-#### Features,
+#### Features
 
 * account: account address and keypair is not same.
 * documentData: actual data stored in document.
